@@ -1,8 +1,12 @@
-# Python project template
+# Project Game Theory and Rationality
 
 Authors:
+Ignazio Spaccavento,
+[Lukas Prader](https://github.com/luprader),
+Viggo Forsell,
+Wilhelm Friberg,
 
-Explain what the project is about and any other things users may need to know.
+In this project we investigate how a cooperative version of the balance puzzle can be solved optimally from a game theoretic perspective, and how changing payoffs might lead to strategising when choosing the next measurement to make.
 
 ## Project setup and management with uv
 https://docs.astral.sh/uv/
@@ -17,7 +21,7 @@ Update with `uv self update`
 ```bash
 uv sync
 ```
-If the project is version controlled, it is important to add the poetry.lock file to the project repository.
+If the project is version controlled, it is important to add the uv.lock file to the project repository.
 
 Add dependencies using `uv add packagename`
 
