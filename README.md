@@ -35,7 +35,7 @@ It is part of the `dev` dependency group, which is synced to the workspace by de
 
 You can just install the VSCode extension and/or use it in terminal:
 ```bash
-pyrefly check --summarize-errors # runs Pyrefly and gives a summary of type errors
+uv run pyrefly check --summarize-errors # runs Pyrefly and gives a summary of type errors
 ```
 
 ## Ruff formatter / linter
