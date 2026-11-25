@@ -7,7 +7,7 @@ authors = [
 ]
 name = "project-gametheory"
 version = "0.1.0"
-description = "Team project for ENM140 / FIM784 "Game theory and rationality" 2026 at Chalmers / University of Gothenburg"
+description = 'Team project for ENM140 / FIM784 "Game theory and rationality" 2026 at Chalmers / University of Gothenburg'
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
